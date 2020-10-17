@@ -1,0 +1,11 @@
+Collecting python-jose
+  Downloading python_jose-3.2.0-py2.py3-none-any.whl (26 kB)
+Collecting ecdsa<0.15
+  Downloading ecdsa-0.14.1-py2.py3-none-any.whl (79 kB)
+Requirement already satisfied: six<2.0 in c:\python38\lib\site-packages (from python-jose) (1.12.0)
+Collecting rsa
+  Downloading rsa-4.6-py3-none-any.whl (47 kB)
+Collecting pyasn1
+  Downloading pyasn1-0.4.8-py2.py3-none-any.whl (77 kB)
+Installing collected packages: ecdsa, pyasn1, rsa, python-jose
+Successfully installed ecdsa-0.14.1 pyasn1-0.4.8 python-jose-3.2.0 rsa-4.6
